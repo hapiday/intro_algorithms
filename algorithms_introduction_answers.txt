@@ -1,0 +1,37 @@
+Making coffee
+
+  GET coffee grounds, filter, water, coffee pot, coffee cup
+  Pour water into coffee pot and fill up to the line
+  Add two scoops of coffee grinds to to the filter and press brew
+  WHILE the coffee is brewing
+      pour the cream and sugar in coffee cup
+  END WHILE
+  GET coffee cup and pour hot coffee inside
+  MIX the cream, sugar, and coffee
+
+Washing dishes
+
+GET dish detergent, sponge, a pile of dirty plates/cups
+   Mix the sponge with dish detergent
+   WHILE a plate/cup is dirty
+       wash the plate/cup until all the dirt/food comes off
+   END WHILE
+   Rinse the plate/cup with water
+   Place the plate/cup into drying rack
+
+A choice of your own
+Washing your car
+
+GET soap, sponge, towel
+  Start spraying water on the car
+  Place soap on wet sponge and scrub car/tires
+  WHILE car is still wet with soap
+    spray the car with water until all the soap is gone
+  END WHILE
+  Grab dry towel and start drying the car
+
+  Facebook- They provide an incredible marketing opportunity for companies because it can predict likely preference patterns based on millions of pieces of demographic information and user activity.
+  Netflix-utilizes a well-refined recommendation algorithm to predict what users will likely want to watch.
+  Match.com-they use an algorithm known as a synapse to predict possible matches. This algorithm takes into consideration not only stated user preference but also the activity and browsing patterns of users to predict likely matches.
+
+  Efficient algorithm has instructions with a sequence of logical steps that accomplish a goal and when executed, finish in a finite amount of time. Inefficient algorithm is the opposite, longest possible path to get to a time critical location, but get you to the desired location.
